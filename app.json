@@ -1,0 +1,12 @@
+{
+  "name": "hunt",
+  "displayName": "hunt",
+  "expo": {
+    "name": "hunt",
+    "slug": "hunt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
